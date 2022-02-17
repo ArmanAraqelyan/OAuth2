@@ -1,9 +1,11 @@
 ### Project Description:
-The project embraces the login and the registration features therefore it redirects to the profile page while there will be displayed name, surname and the registration time. The used technologies: 
+The project embraces the login and the registration features therefore it redirects to the profile page while there will be displayed name, surname and the registration time. The used technologies:
+- Vue.js 
 - Docker
-- PHP (Slim Framework)
 - OAuth2
-- Vue.js
+- PHP (Slim Framework)
+- PDO
+- MySQL
 
 ### Usage:
 To open the project run the start.sh file which does the following processes:
